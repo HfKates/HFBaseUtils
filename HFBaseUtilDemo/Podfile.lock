@@ -1,0 +1,16 @@
+PODS:
+  - HFBaseUtils (1.0.0)
+
+DEPENDENCIES:
+  - HFBaseUtils
+
+SPEC REPOS:
+  trunk:
+    - HFBaseUtils
+
+SPEC CHECKSUMS:
+  HFBaseUtils: fc13757e3410c3456e72e3b2ce89bc73c8283fd8
+
+PODFILE CHECKSUM: fd2abf43ba8488c2a9f3cd28a6c05d74fd0899a5
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module Pods_HFBaseUtilDemo {
+  umbrella header "Pods-HFBaseUtilDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
